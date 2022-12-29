@@ -4,21 +4,23 @@
 
 <p align="center"> 
   <a href="https://www.whatnot.com/">
-    <img title="Whatnot" alt="Whatnot" src="wn_Logo.jpg" width=200 />
+    <img title="Whatnot" alt="Whatnot" src="assets/wn_Logo.jpg" width=200 />
   </a>
   <a href="https://stockx.com/">
-    <img title="StockX" alt="StockX" src="StockX_Logo.jpg" width=200 />
+    <img title="StockX" alt="StockX" src="assets/StockX_Logo.jpg" width=200 />
   </a>
 </p>
 
 ### Skills 
 
+### Projects
+
 ### Background
 
 <p align="center"> 
-  <img title="BC" alt="BC" src="Boston_College_seal.svg.png" width=200 />
-  <img title="Stanford" alt="Stanford" src="Stanford_University_seal_2003.svg.png" width=200 />
-  <img title="NSF" alt="NSF" src="NSF_logo.png" width=200 />
+  <img title="BC" alt="BC" src="assets/Boston_College_seal.svg.png" width=200 />
+  <img title="Stanford" alt="Stanford" src="assets/Stanford_University_seal_2003.svg.png" width=200 />
+  <img title="NSF" alt="NSF" src="assets/NSF_logo.png" width=200 />
 </p>
 
 <!--

@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hey there! I'm Noah 👋 </h1>
 
 <!--
 **noahjussila/noahjussila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

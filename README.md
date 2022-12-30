@@ -1,6 +1,6 @@
 <h1 align="center"> Hey there! I'm Noah 👋 </h1>
 
-## Quick Intro 
+### Quick Intro 
 
 I'm a data scientist at Whatnot specializing in econometrics, pricing, structural modeling, and causal inference. I'm eagerly honing my skills in data engineering and software engineering to better understand everything-data.  
 

@@ -2,7 +2,7 @@
 
 ### Quick Intro 
 
-I'm a data scientist at Whatnot specializing in econometrics, pricing, structural modeling, and causal inference. I'm eagerly honing my skills in data engineering and software engineering to better understand everything-data.  
+I'm a data scientist at Whatnot specializing in econometrics, pricing, structural modeling, and causal inference. I'm eagerly honing my skills in data engineering and software engineering to better understand every and anything data.  
 
 <p align="center"> 
   <a href="https://www.whatnot.com/">

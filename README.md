@@ -52,28 +52,41 @@ In my freetime I'm always working on some side project, or making my way through
     
 </p>
 
+#### Economics
+
+- Game Theory
+- Mechanism Design
+- Expected Utility Theory and Decision Making Under Uncertainty
+- Auction Theory
+- Industrial Organization
+- Matching Theory
+
 #### Statistics/Econometrics   
     
 - Theoretical Statistics
+- Linear Models
+- Nonlinear Models
+- Information Theory
 - Machine Learning
 - Causal Inference
 - Bayesian Methods
-- Monte Carlo Methods
-- Generalized Linear Models 
+- Nonparametrics and Semiparametrics
 
-#### Mathematics
+#### Mathematics (Pure and Applied)
     
-- Linear Algebra
-- Advanced Calculus    
+- Linear Algebra 
 - Abstract Algebra (Groups, Rings, Fields, Galois Theory)
 - Point Set Topology
-- Real Analysis 
+- Real Analysis (Advanced Calculus)
+- Measure Theory
 - Functional Analysis
 - Probability Theory
 - Numerical Analysis
 - ODEs and PDEs
-- Optimization/Programming
-- Game Theory
+- Theory of Optimization
+- Linear/Nonlinear Programming
+- Convex Optimization
+- Dynamic Programming and Optimal Control
 
 #### What I'm Currently Learning
     

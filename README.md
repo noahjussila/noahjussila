@@ -33,6 +33,8 @@ In my freetime I'm always working on some side project, or making my way through
     <img title="dbt" alt="dbt" src="assets/dbt.png" width=40 />
   <a href="https://www.wolfram.com/mathematica/">
     <img title="Mathematica" alt="Mathematica" src="assets/mathematica.png" width=40 />
+   <a href="https://www.stata.com/">
+    <img title="Stata" alt="Stata" src="assets/stata_logo.png" width=50 />
   <a href="https://www.latex-project.org/">
     <img title="LaTeX" alt="LaTeX" src="assets/latex.png" width=50 />
   <a href="https://jupyter.org/">

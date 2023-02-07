@@ -73,6 +73,8 @@ In my freetime I'm always working on some side project, or making my way through
 - Causal Inference
 - Bayesian Methods
 - Nonparametrics and Semiparametrics
+- Microeconometrics (panel and cross section methods)
+- Macroeconometrics and Time Series
 
 #### Mathematics (Pure and Applied)
     
@@ -92,11 +94,13 @@ In my freetime I'm always working on some side project, or making my way through
 
 #### What I'm Currently Learning
     
-- C++
+- C++ (if one can really "learn C++" opposed to "learning what they don't know about C++") 
 - Variational Analysis
     
     
 ### Projects
+
+- A collection of notes on [real analysis](https://github.com/noahjussila/analysis_notes/blob/master/Analysis%20Notes.pdf) that was initially going to just be $\LaTeX$-ed version of some notes from college, but has evolved into a pet-project with no end in sight.
 
 ### Background
 
